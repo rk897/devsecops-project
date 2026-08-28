@@ -24,3 +24,25 @@ An end-to-end, shift-left DevSecOps automation pipeline designed to run locally 
                │
                ▼
 [ 5. AI Observability Gate ]       ──► Python kubectl Log Tailing + Gemini LLM Diagnostics
+
+
+
+---
+
+## 📸 Proof of Work & Verification
+
+### 1. Shift-Left Security Scan (Trivy)
+![Trivy Scan Results](./trivy_scan.jpg)
+
+### 2. Kubernetes Cluster & Pod Status
+![Kubernetes Pod Status](./k8s_status.jpg)
+
+### 3. Application Web Interface
+![Live App UI](./app_browser.png)
+
+---
+
+## 👤 Author
+
+* **Ramees K** – AWS Certified Solutions Architect Associate | OCI DevOps Professional
+* **GitHub**: [@rk897](https://github.com/rk897)
