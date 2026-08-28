@@ -6,8 +6,7 @@ An end-to-end, shift-left DevSecOps automation pipeline designed to run locally 
 
 ## 📐 Pipeline Architecture
 
-![DevSecOps Architecture Diagram](./architecture-diagram.jpg)
-
+![DevSecOps Architecture Diagram](./architecture-diagram.png)
 ```text
 [ Developer Workstation (macOS) ]
                │
