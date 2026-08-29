@@ -7,6 +7,7 @@ An end-to-end, shift-left DevSecOps automation pipeline designed to run locally 
 ## 📐 Pipeline Architecture
 
 ![DevSecOps Architecture Diagram](./architecture-diagram.png)
+
 ```text
 [ Developer Workstation (macOS) ]
                │
@@ -24,8 +25,3 @@ An end-to-end, shift-left DevSecOps automation pipeline designed to run locally 
                │
                ▼
 [ 5. AI Observability Gate ]       ──► Python kubectl Log Tailing + Gemini LLM Diagnostics
-
-## 👤 Author
-
-* **Ramees K** – AWS Certified Solutions Architect Associate | OCI DevOps Professional
-* **GitHub**: [@rk897](https://github.com/rk897)
